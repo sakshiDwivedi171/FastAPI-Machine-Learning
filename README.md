@@ -1,4 +1,4 @@
-# FastAPI - Machine Learning example
+# FastAPI - 
 
 A small FastAPI project that demonstrates serving a machine learning model and simple patient data management. This repository includes the FastAPI app (`main.py`) and a sample `patient.json` data file.
 
